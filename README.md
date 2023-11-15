@@ -38,5 +38,4 @@ Stems Output
 
 [Website view](https://pdragonlabs.github.io/simple-website-template/landingpage.html)
 
-[test](landing.html)
- 
+
