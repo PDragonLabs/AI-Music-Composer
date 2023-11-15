@@ -1,4 +1,4 @@
-# AI-Music-Composer: Unleash Your Creative Genius with AI-Powered Music Composition
+# AI-Music-Composer: Unleash Your Creative Genius with AI-Powered Music Composition [-Patreon Link](https://www.patreon.com/posts/92926024)
 
 Unleash your inner music composer with AI-Music-Composer, a revolutionary AI-powered tool that empowers you to generate original music in various genres and styles. Create unique melodies, harmonies, and rhythms with ease, whether you're a seasoned musician or a complete novice.
 
