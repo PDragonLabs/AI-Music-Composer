@@ -36,5 +36,5 @@ Stems Output
 
     - Unleash Your Creativity: Let AI-Music-Composer spark your musical inspiration and bring your compositions to life.
 
-
-https://pdragonlabs.github.io/simple-website-template/landingpage.html
+[Website view](https://pdragonlabs.github.io/simple-website-template/landingpage.html)
+ 
